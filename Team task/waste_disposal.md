@@ -479,7 +479,7 @@ plt.show()
 
 ![image](Images/com.png)
 
-### Interpretations:
+### Conclusion:
 
 > Highest Emission Countries:
 > China  2020, China, mainland   2020, Japan  2013
@@ -493,10 +493,11 @@ Pink  American Samoa, Bahamas, Bolivia, Colombia, Djibouti, Eritrea, Finland,
 3. Just for knowledge:
 Pakistan (Green)  between 100 and 1300
 India (silver) almost 2000
+Bangladesh (light green) almost 800 to 1000
 Years Of Emission:
 Emission is increasing day by day, but the highest emission was recorded in 2020 by China
 
-## Conclusion
+## Suggestions:
 * The world is releasing bulk amount of gas in atmosphere, so we need to take care of our atmospher and because it has already caused global warming as well that is current issue of the world.
 * We have records of different courtiers and according to that, we may at least give them a warning or so to stop huge bulk of emission, do it but just some restrictions or we going to loss this world
 * You can take recent years data and try to use different samples and different techniques. Change your perception about the comparison methodology
